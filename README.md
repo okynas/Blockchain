@@ -75,11 +75,13 @@ valid_chain()
 - check that the PoW works for all blocks
 
 resolve_conflict()
+
 proof_of_work()
 
-last_block() method
-hash() static
-- 
+last_block() - method
+
+hash() - static
+
 verify_proof() - static
 
 ### TO DO
